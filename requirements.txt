@@ -6,6 +6,7 @@ scipy
 Matplotlib
 scikit-learn
 pandas
+mpl_toolkits
 
 # to clear notebook metadata changes (unnecessary diffs)
 nbstripout
