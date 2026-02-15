@@ -3,4 +3,5 @@ jupyterlab
 notebook
 scipy
 
+# to clear notebook metadata changes (unnecessary diffs)
 nbstripout
