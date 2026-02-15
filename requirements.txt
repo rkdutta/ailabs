@@ -4,6 +4,7 @@ jupyterlab
 notebook
 scipy
 Matplotlib
+scikit-learn
 
 # to clear notebook metadata changes (unnecessary diffs)
 nbstripout
