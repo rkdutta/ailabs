@@ -1,0 +1,4 @@
+numpy
+jupyterlab
+notebook
+scipy
