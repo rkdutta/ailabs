@@ -1,7 +1,9 @@
+# ML
 numpy
 jupyterlab
 notebook
 scipy
+Matplotlib
 
 # to clear notebook metadata changes (unnecessary diffs)
 nbstripout
