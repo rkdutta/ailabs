@@ -2,3 +2,5 @@ numpy
 jupyterlab
 notebook
 scipy
+
+nbstripout
