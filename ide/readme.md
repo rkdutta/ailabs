@@ -1,5 +1,7 @@
 ### Setting Up Agentic IDE Locally
 
+Source: https://youtu.be/AKKx1PoNtnM?si=qOLSoq5e0ua3rtMm
+
 **Requirements**
 
 1. **Integrated Development Environment (IDE)**: Visual Studio Code (VSCODE)
