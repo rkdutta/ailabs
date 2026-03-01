@@ -39,7 +39,7 @@ camp 1(close to pool) --------> camp 2(close to entrnace)
 [-0.1, -0.3, -0.5]                    [-0.4,-0.6,-0.7]
 ```
 
-Now two campsites can have similarities for example both of them are close to a water body(lake, pool). These kind of similarities are inferences that we can use to search for similar documents. And using vectors these similarities can be stored and used efficiently. There are specialised algorithms that can be used to find the similarity between vectors. This makes providing recommendations based on past choices made by the user possible.
+Now two campsites can have similarities for example both of them are close to a water body(lake, pool). These kind of similarities are inferences that we can use to search for similar documents. And using vectors these similarities can be stored and used efficiently. There are specialised algorithms(e.g. nearest neighbor search) that can be used to find the similarity between vectors. This makes providing recommendations based on past choices made by the user possible.
 
 ### Dimensionality
 
