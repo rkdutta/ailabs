@@ -48,5 +48,14 @@ A vector is a mathematical object that has length or magnitude, which is the num
 ### Uniformity
 Vectors convert the unstructured data into structured data, which makes it easier to store and retrieve information.The uniformity of vectors is achieved by converting the data into a numeric format. This allows for easy comparison and analysis of the data.
 
+
+### Usecases
+1. Recommendation systems: Recommendation systems use vector databases to provide personalized recommendations based on user behavior.
+2. Content-based filtering: Content-based filtering uses vector databases to find similar content and recommend it to the user.
+3. Clustering: Vector databases can be used to cluster data based on their similarity.
+4. Image recognition: Vector databases can be used for image recognition, allowing computers to recognize objects in images.
+5. Fraud detection: Vector databases can be used to detect fraud by comparing transactions with known patterns.
+6. Natural language processing: Vector databases can be used for natural language processing, allowing computers to understand and analyze text data. 
+
 ### Bibliography
 https://www.youtube.com/watch?v=jbLa0KBW-jY
