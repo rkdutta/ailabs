@@ -6,7 +6,9 @@ scipy
 Matplotlib
 scikit-learn
 pandas
-mpl_toolkits
+
+# vector database
+chromadb
 
 # to clear notebook metadata changes (unnecessary diffs)
 nbstripout

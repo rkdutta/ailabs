@@ -6,7 +6,7 @@ Use your choice of editor like VSCODE for example to load the Jupyter notebook.
 ### Python virtual environment(optional)
 ```bash
 python3 -m venv ailab
-python3 install -r requirements.txt
+pip3 install -r requirements.txt
 nbstripout --install
 pre-commit install
 
