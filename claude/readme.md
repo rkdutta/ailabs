@@ -10,3 +10,6 @@ ollama launch claude --model glm-4.7-flash
 
 ### Are Repository-Level Context Files Helpful for Coding Agents?
 https://arxiv.org/pdf/2602.11988
+
+## References
+https://www.builder.io/blog/claude-md-guide

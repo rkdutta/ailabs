@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git branch*)",
+      "Bash(git show*)",
+      "Bash(python3*)",
+      "Bash(pip3 list*)",
+      "Bash(pip3 show*)",
+      "Bash(jupyter*)",
+      "Bash(ls*)",
+      "Bash(cat /Users/rdutta/Development/ai/*)",
+      "Bash(which*)",
+      "Bash(echo*)"
+    ],
+    "deny": []
+  }
+}
