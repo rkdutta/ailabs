@@ -235,8 +235,8 @@ No work can begin until both sides agree on what they support:
        │◄─── 2. initialize response ─────────────│
        │        { protocolVersion, capabilities, │
        │          serverInfo }                   │
-       │──── 3. notifications/initialized ───────►│
-       │         ✅ Session is now active          │
+       │──── 3. notifications/initialized ──────►|
+                  ✅ Session is now active
 ```
 
 If the protocol versions are incompatible, the server rejects the connection immediately.
