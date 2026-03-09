@@ -3,9 +3,6 @@
 source .venv/bin/activate 
 uv add fastmcp
 
-# opens mcp inspector [dev mode]
-uv run fastmcp dev inspector ./main.py
-
 # server mode
 uv run fastmcp run ./main.py 
 ```
@@ -18,13 +15,13 @@ uv run fastmcp install claude-desktop main.py
 
 Next open claude desktop and execute this query
 ```
-add 1000 + 99
+I want to add a new expense of buying a horse of 1000 dollars
 ```
 
 ## Troubleshoot
 
-1. Setting > Developer > Demo Server (should be in running state)
-2. Chat > Connectors > Demo Server (should be enabled for use)
+1. Setting > Developer > Expense Tracker Server (should be in running state)
+2. Chat > Connectors > Expense Tracker Server (should be enabled for use)
 3. Inspect using inspector
 ```bash
 uv run fastmcp install claude-desktop main.py
