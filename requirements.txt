@@ -12,3 +12,6 @@ chromadb
 
 # to clear notebook metadata changes (unnecessary diffs)
 nbstripout
+
+# for LLMs
+mcp
