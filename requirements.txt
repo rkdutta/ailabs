@@ -14,6 +14,8 @@ chromadb
 nbstripout
 
 # mcp sdk
-mcp # includes fastmcp v1.0
+# mcp # includes fastmcp v1.0
 # fastmcp is a fork of mcp sdk with optimizations and additional features.
 fastmcp # v2.0 or higher
+
+uv
