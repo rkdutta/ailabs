@@ -1,5 +1,5 @@
 ```bash
-
+uv init
 source .venv/bin/activate 
 uv add fastmcp
 
