@@ -19,3 +19,5 @@ nbstripout
 fastmcp # v2.0 or higher
 
 uv
+openai>=2.28.0
+pytest>=9.0.2
