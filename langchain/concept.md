@@ -23,7 +23,7 @@ LangChain is a Python library that provides an interface for building and traini
     Two basic types:
         
         a. language models [returns text as response]
-        b. embedding models [returns vectors as response example: [0.1,0.2]
+        b. embedding models [returns vectors as response example: [0.1,0.2]]
 2. Prompts (to query)
 3. Chains (to desgin workflows)
 4. Memory
