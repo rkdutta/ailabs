@@ -23,3 +23,18 @@ uv
 openai>=2.28.0
 pytest>=9.0.2
 ollama
+
+
+# langchain Core
+langchain
+langchain-core
+
+# langchain integrations
+langchain-openai
+langchain-anthropic
+langchain-ollama
+langchain-huggingface
+transformers
+
+# Environment
+python-dotenv
