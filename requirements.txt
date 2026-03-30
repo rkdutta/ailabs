@@ -24,7 +24,6 @@ openai>=2.28.0
 pytest>=9.0.2
 ollama
 
-
 # langchain Core
 langchain
 langchain-core
@@ -35,6 +34,7 @@ langchain-anthropic
 langchain-ollama
 langchain-huggingface
 transformers
+torch
 
 # Environment
 python-dotenv
